@@ -1,4 +1,4 @@
-name: Support Az Fx Build
+name: Support Az Fx Docker Image CI
 on:
   push:
     branches:
